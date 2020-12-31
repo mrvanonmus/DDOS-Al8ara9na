@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-# python 3.3.2+ 8ara9na Dos Script v.1
+# python 3.3.2+ Monharefin Dos Script v.1
 # by mrv syria
 # only for legal purpose
 
